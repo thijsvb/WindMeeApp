@@ -1,2 +1,2 @@
 # WindMeeApp
-Een app die de eeuwenoude vraag "Heb ik wind mee?" beantwoord
+Een app die de eeuwenoude vraag "Heb ik wind mee?" beantwoordt
